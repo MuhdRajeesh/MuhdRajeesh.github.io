@@ -1,12 +1,11 @@
-# Muhammed Rajeesh — Portfolio Website
+# Muhammed Rajeesh — Premium Light Portfolio
 
-A responsive, animated static portfolio website for GitHub Pages.
+A responsive, light premium personal portfolio with a warm ivory, sage green and muted botanical palette; custom CSS illustrations; scroll reveal and floating-card animations; and the supplied profile photo.
 
-## Publish
-1. Open the repository `muhdrajeesh.github.io` on GitHub.
-2. Upload and replace `index.html`, `styles.css`, `script.js`, and `README.md` in the repository root.
-3. Commit the changes to the `main` branch.
-4. Keep GitHub Pages set to deploy from `main` and `/(root)`.
-5. Visit https://muhdrajeesh.github.io/ after the deployment finishes.
+## Publish on GitHub Pages
+1. Extract this ZIP.
+2. In your `muhdrajeesh.github.io` repository, upload and replace `index.html`, `styles.css`, `script.js`, and `README.md` in the repository root.
+3. Upload the `assets` folder and its `profile-rajeesh.png` file, preserving the folder structure.
+4. Commit changes, then visit https://muhdrajeesh.github.io/ and hard-refresh with Ctrl + Shift + R.
 
-The Instagram and LinkedIn labels are placeholders and can be linked later. The portrait uses the image hosted on the existing website; replace its image URL in `index.html` if you prefer another photo.
+The portfolio uses the public contact details supplied from your existing website. Social profile links are intentionally omitted for now. Project results and client testimonials are not invented.

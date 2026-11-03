@@ -1,11 +1,17 @@
-# Muhammed Rajeesh — Premium Light Portfolio
+# Muhammed Rajeesh — Personal Portfolio
 
-A responsive, light premium personal portfolio with a warm ivory, sage green and muted botanical palette; custom CSS illustrations; scroll reveal and floating-card animations; and the supplied profile photo.
+A responsive, light-theme personal portfolio inspired by the polished visual language of creative agencies. It uses your own name, profile, services and contact details—not Adokae's logo or copy.
 
 ## Publish on GitHub Pages
-1. Extract this ZIP.
-2. In your `muhdrajeesh.github.io` repository, upload and replace `index.html`, `styles.css`, `script.js`, and `README.md` in the repository root.
-3. Upload the `assets` folder and its `profile-rajeesh.png` file, preserving the folder structure.
-4. Commit changes, then visit https://muhdrajeesh.github.io/ and hard-refresh with Ctrl + Shift + R.
+1. Open your repository: https://github.com/MuhdRajeesh/muhdrajeesh.github.io
+2. Upload **all files and folders inside this ZIP** to the repository root. Keep the `assets` folder intact.
+3. If GitHub asks, replace the old `index.html`, `styles.css`, `script.js`, and `README.md`.
+4. Open Settings → Pages. Select **Deploy from a branch**, branch **main**, folder **/(root)**, then Save.
+5. Visit https://muhdrajeesh.github.io/ and hard-refresh with Ctrl + Shift + R.
 
-The portfolio uses the public contact details supplied from your existing website. Social profile links are intentionally omitted for now. Project results and client testimonials are not invented.
+## Before publishing
+- Check the phone number and email in `index.html`.
+- Add your Instagram and LinkedIn URLs when you have them; they are currently shown as placeholders.
+- The insight links currently point to your existing website homepage. Replace them with individual article URLs when available.
+
+The portrait and hero image are stored locally in `assets`, so they are included in the website package. Google Fonts are loaded online; the site still has sans-serif fallbacks if they cannot load.
